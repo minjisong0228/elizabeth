@@ -1631,7 +1631,6 @@
 	}
 
 		a:hover {
-			color: #270303;
 			border-bottom-color: transparent;
 		}
 
@@ -1861,9 +1860,7 @@
 				color: inherit;
 			}
 
-				ul.icons li a:hover {
-					color: #270303;
-				}
+				
 
 	ol.default {
 		list-style: decimal;
@@ -2805,7 +2802,7 @@
 					width: 18em;
 					margin: 0 1em 0 0;
 				}
-
+		
 	}
 
 /* Mobile */
@@ -3073,7 +3070,7 @@
 					display: inline-block;
 					width: 5em;
 				}
-
+c
 				#navPanel .depth-0 {
 					color: #fff;
 				}
@@ -3201,7 +3198,7 @@
 						font-size: 24px;
 					}
 					.reel article h5 {
-					font-size: 12px;
+					font-size: 14px;
 					}
 					header > p {
 						font-size: 1.15em;
@@ -3222,5 +3219,7 @@
 							color: white;
 							font-size: 18px;
 						}
+
+
 
 	}
