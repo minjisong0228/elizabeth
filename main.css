@@ -3219,7 +3219,7 @@ c
 							color: white;
 							font-size: 18px;
 						}
-			.inner #logo img{
+			#logo img{
 				max-width: 100%;
 			}
 	}
