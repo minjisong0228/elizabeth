@@ -2690,6 +2690,9 @@
 				color: #fff;
 				background: #270303;
 			}
+			#logo img{
+				max-width: 100%;
+			}
 
 /* Wide */
 
@@ -3219,8 +3222,7 @@ c
 							color: white;
 							font-size: 18px;
 						}
-}
+			}
 			#logo img{
 				max-width: 100%;
 			}
-	
