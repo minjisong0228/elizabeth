@@ -3226,3 +3226,12 @@ c
 			#logo img{
 				max-width: 100%;
 			}
+			
+.goods2:hover img {
+    transform: scale(1.1);
+    transition: all 1s;
+}
+.special7:hover img{
+	transform: scale(1.1);
+    transition: all 1s;
+}
